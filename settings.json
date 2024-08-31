@@ -17,4 +17,5 @@
     "breadcrumbs.enabled": false,
     "workbench.statusBar.visible": false,
     "workbench.activityBar.location": "hidden",
+    "editor.fontLigatures": true,
 }
