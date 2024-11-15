@@ -16,5 +16,17 @@
     {
         "key": "ctrl+shift+b",
         "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "ctrl+alt+s",
+        "command": "workbench.action.files.saveFiles"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "-editor.action.toggleTabFocusMode"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "workbench.files.action.collapseExplorerFolders"
     }
 ]

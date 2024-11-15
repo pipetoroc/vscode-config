@@ -6,7 +6,7 @@
     //"workbench.editor.showTabs": "none",
     "oneDarkPro.bold": true,
     "oneDarkPro.vivid": true,
-    "editor.fontFamily": "'CaskaydiaCove Nerd Font'",
+    "editor.fontFamily": "'FiraCode Nerd Font Med', 'CaskaydiaCove Nerd Font'",
     "editor.cursorStyle": "block",
     "dotnet.codeLens.enableReferencesCodeLens": false,
     "editor.minimap.enabled": false,
@@ -16,6 +16,9 @@
     "editor.formatOnSave": true,
     "breadcrumbs.enabled": false,
     "workbench.statusBar.visible": false,
-    "workbench.activityBar.location": "hidden",
     "editor.fontLigatures": true,
+    "terminal.integrated.env.linux": {},
+    "workbench.activityBar.location": "top",
+    "window.menuBarVisibility": "toggle",
+    //"editor.semanticHighlighting.enabled": false
 }
